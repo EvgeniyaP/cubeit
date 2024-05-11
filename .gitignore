@@ -1,0 +1,7 @@
+# -----------------------------------------------------------------
+#.gitignore
+# ignore all files starting with . or ~
+#.*
+#~*
+*venv
+*.pytest_cache
